@@ -1,6 +1,6 @@
 {
   "name": "git-flow",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Git-Flow를 이해하고 학습합니다.",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@release-it/conventional-changelog": "^8.0.1",
     "release-it": "^17.6.0"
   }
 }
