@@ -1,0 +1,15 @@
+{
+  "name": "git-flow",
+  "version": "0.1.0",
+  "description": "Git-Flow를 이해하고 학습합니다.",
+  "main": "index.js",
+  "scripts": {
+    "release": "release-it"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "release-it": "^17.6.0"
+  }
+}
