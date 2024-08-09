@@ -1,5 +1,17 @@
 
 
+# 0.3.0 (2024-08-09)
+
+
+### Bug Fixes
+
+* 일부 내용이 맞지 않아 수정 ([7d6caac](https://github.com/GennYoon/git-flow/commit/7d6caac5980f0a32593b8eeb6b9e6f419ff30772))
+
+
+### Features
+
+* Github Branch Ruleset에 대한 글을 작성합니다. ([1ef9b59](https://github.com/GennYoon/git-flow/commit/1ef9b5988ba72242c66262bb9c991bd1c7ffc42d))
+
 ## 0.2.1 (2024-08-09)
 
 

@@ -22,8 +22,9 @@
 
 ### Github Branch Protect Rule
 
-- main: main 브랜치는 직접 push가 불가능하며 `release`, `hotfix` 브랜치의 PR을 통해서만 merge가 가능합니다. ( squash merge )
+- main: main 브랜치는 직접 push가 불가능하며 `release` 브랜치의 PR을 통해서만 merge가 가능합니다. ( squash merge )
 - develop: develop 브랜치는 직접 push가 불가능하며 `feature`, `bugfix` 브랜치의 PR을 통해서만 merge가 가능합니다. ( rebase merge )
+  [More](docs/Github_Branch_Ruleset.md)
 
 ---
 
