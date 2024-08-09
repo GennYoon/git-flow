@@ -1,5 +1,12 @@
 
 
+## 0.2.1 (2024-08-09)
+
+
+### Bug Fixes
+
+* bugfix 브랜치 생성 규칙에 release도 포함시킵니다. ([60d1f2c](https://github.com/GennYoon/git-flow/commit/60d1f2cb0d8595933a6974977567a7bfeda9e9cc))
+
 # 0.2.0 (2024-08-09)
 
 
