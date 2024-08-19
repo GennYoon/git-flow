@@ -40,6 +40,8 @@
 
 [Link](docs/Hotfix_버그수정_진행.md)
 
+### release-it을 이용한 major 버전 증가시키기
+
 ### PR 규칙
 
 `hotfix`, `feature` 브랜치에서 `develop` 브랜치로 PR을 생성합니다.
