@@ -1,5 +1,12 @@
 
 
+# 1.0.0 (2024-08-19)
+
+
+### Features
+
+* Major 버전 증가시키기 ([7f48d4b](https://github.com/GennYoon/git-flow/commit/7f48d4bae02a170e0fd4c5b94bb7a8921ddb7ae2))
+
 # 0.3.0 (2024-08-09)
 
 
